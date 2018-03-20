@@ -1,4 +1,4 @@
-package fr.uga.poo;
+package test.java.fr.uga.poo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

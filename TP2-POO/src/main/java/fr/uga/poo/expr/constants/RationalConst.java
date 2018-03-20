@@ -1,4 +1,4 @@
-package fr.uga.poo.expr.constants;
+package main.java.fr.uga.poo.expr.constants;
 
 public class RationalConst extends ConstArithmeticExpression {
 

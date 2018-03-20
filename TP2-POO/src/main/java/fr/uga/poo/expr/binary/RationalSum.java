@@ -1,7 +1,7 @@
-package fr.uga.poo.expr.binary;
+package main.java.fr.uga.poo.expr.binary;
 
-import fr.uga.poo.expr.constants.ConstArithmeticExpression;
-import fr.uga.poo.expr.constants.RationalConst;
+import main.java.fr.uga.poo.expr.constants.ConstArithmeticExpression;
+import main.java.fr.uga.poo.expr.constants.RationalConst;
 
 public class RationalSum extends BinaryOperation<RationalConst, RationalConst> {
 

@@ -1,8 +1,9 @@
-package fr.uga.poo;
-import fr.uga.poo.expr.builder.OperationBuilder;
-import fr.uga.poo.expr.constants.ConstArithmeticExpression;
-import fr.uga.poo.expr.constants.IntegerConst;
-import fr.uga.poo.expr.constants.RationalConst;
+package main.java.fr.uga.poo;
+
+import main.java.fr.uga.poo.expr.builder.OperationBuilder;
+import main.java.fr.uga.poo.expr.constants.ConstArithmeticExpression;
+import main.java.fr.uga.poo.expr.constants.IntegerConst;
+import main.java.fr.uga.poo.expr.constants.RationalConst;
 
 public class App {
 	public static void main(String[] args) {

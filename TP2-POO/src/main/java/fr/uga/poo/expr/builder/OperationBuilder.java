@@ -1,15 +1,15 @@
-package fr.uga.poo.expr.builder;
+package main.java.fr.uga.poo.expr.builder;
 
 import javax.swing.plaf.basic.BasicBorders.RadioButtonBorder;
 
-import fr.uga.poo.expr.ArithmeticExpression;
-import fr.uga.poo.expr.binary.BinaryOperation;
-import fr.uga.poo.expr.binary.IntegerProduct;
-import fr.uga.poo.expr.binary.IntegerSum;
-import fr.uga.poo.expr.binary.RationalSum;
-import fr.uga.poo.expr.constants.ConstArithmeticExpression;
-import fr.uga.poo.expr.constants.IntegerConst;
-import fr.uga.poo.expr.constants.RationalConst;
+import main.java.fr.uga.poo.expr.ArithmeticExpression;
+import main.java.fr.uga.poo.expr.binary.BinaryOperation;
+import main.java.fr.uga.poo.expr.binary.IntegerProduct;
+import main.java.fr.uga.poo.expr.binary.IntegerSum;
+import main.java.fr.uga.poo.expr.binary.RationalSum;
+import main.java.fr.uga.poo.expr.constants.ConstArithmeticExpression;
+import main.java.fr.uga.poo.expr.constants.IntegerConst;
+import main.java.fr.uga.poo.expr.constants.RationalConst;
 
 public abstract class OperationBuilder extends BinaryOperation<ArithmeticExpression, ArithmeticExpression>
 		implements ArithmeticExpression {

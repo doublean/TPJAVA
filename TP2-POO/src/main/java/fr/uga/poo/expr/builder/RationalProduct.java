@@ -1,8 +1,8 @@
-package fr.uga.poo.expr.builder;
+package main.java.fr.uga.poo.expr.builder;
 
-import fr.uga.poo.expr.binary.BinaryOperation;
-import fr.uga.poo.expr.constants.ConstArithmeticExpression;
-import fr.uga.poo.expr.constants.RationalConst;
+import main.java.fr.uga.poo.expr.binary.BinaryOperation;
+import main.java.fr.uga.poo.expr.constants.ConstArithmeticExpression;
+import main.java.fr.uga.poo.expr.constants.RationalConst;
 
 public class RationalProduct extends BinaryOperation<RationalConst, RationalConst> {
 

@@ -1,6 +1,6 @@
-package fr.uga.poo.expr.binary;
+package main.java.fr.uga.poo.expr.binary;
 
-import fr.uga.poo.expr.ArithmeticExpression;
+import main.java.fr.uga.poo.expr.ArithmeticExpression;
 
 public abstract class BinaryOperation<LEFT, RIGHT> implements ArithmeticExpression {
 
